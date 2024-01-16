@@ -13,7 +13,7 @@ export const downloadLoops = async (
   // We're in! On genre page
   await page
     .goto(url, {
-      waitUntil: "networkidle0",
+      waitUntil: "domcontentloaded",
     })
     .then(() => console.info("Page has fully loaded"));
 
