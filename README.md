@@ -18,7 +18,7 @@ Looperman Loop Grabber is designed to streamline your loop discovery process. Fo
 3. **Navigate to the project directory:**
 
 ```bash
-  cd looperman_loop_grabber
+  cd looperman-loop-grabber
 ```
 
 4. **Install dependencies:**
